@@ -2,23 +2,23 @@
 
 Замените `[[...]]` своими ссылками. Снимки загрузите в `screenshots/`.
 
-Репозиторий: [[ССЫЛКА_НА_СВОЙ_РЕПОЗИТОРИЙ]]
+Репозиторий: https://github.com/gkfosl/project-management/tree/main
 
-Проект: [[ССЫЛКА_НА_СВОЙ_ПРОЕКТ]]
+Проект: https://gkfosl.bitrix24.ru/workgroups/
 
-Источник требований: [[ССЫЛКА_НА_ЗАДАЧУ_ТЕМЫ_3]]
+Источник требований: https://gkfosl.bitrix24.ru/workgroups/group/2/tasks/task/view/6/
 
-Общая задача: [[ССЫЛКА_НА_ОБЩУЮ_ЗАДАЧУ]]
+Общая задача: https://gkfosl.bitrix24.ru/workgroups/group/2/tasks/task/view/8/
 
-А1: [[ССЫЛКА_НА_А1]]
+А1: https://gkfosl.bitrix24.ru/company/personal/user/1/tasks/task/view/10/
 
-А2: [[ССЫЛКА_НА_А2]]
+А2: https://gkfosl.bitrix24.ru/company/personal/user/1/tasks/task/view/12/
 
-Б: [[ССЫЛКА_НА_Б]]
+Б: https://gkfosl.bitrix24.ru/workgroups/group/2/tasks/task/view/14/
 
-В: [[ССЫЛКА_НА_В]]
+В: https://gkfosl.bitrix24.ru/workgroups/group/2/tasks/task/view/16/
 
-Г: [[ССЫЛКА_НА_Г]]
+Г: https://gkfosl.bitrix24.ru/workgroups/group/2/tasks/task/view/18/
 
 ## Скриншоты
 

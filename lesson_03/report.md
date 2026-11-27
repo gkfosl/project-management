@@ -2,11 +2,11 @@
 
 Замените `[[...]]` своими ссылками. Снимки загрузите в `screenshots/`.
 
-Репозиторий: [[ССЫЛКА_НА_СВОЙ_РЕПОЗИТОРИЙ]]
+Репозиторий: https://github.com/gkfosl/project-management
 
-Проект: [[ССЫЛКА_НА_СВОЙ_ПРОЕКТ]]
+Проект: https://gkfosl.bitrix24.ru/workgroups/
 
-Задача: [[ССЫЛКА_НА_ЗАДАЧУ_О_ПРОВЕРКАХ]]
+Задача: https://gkfosl.bitrix24.ru/workgroups/group/2/tasks/task/view/6/
 
 ## Скриншоты
 

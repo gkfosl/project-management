@@ -4,15 +4,15 @@
 Скриншоты загрузите в `screenshots/` с указанными ниже именами.
 Ссылки на снимки уже готовы — не удаляйте их.
 
-Репозиторий: [[ССЫЛКА_НА_СВОЙ_РЕПОЗИТОРИЙ]]
+Репозиторий: https://github.com/gkfosl/project-management/tree/main
 
-Проект: [[ССЫЛКА_НА_СВОЙ_ПРОЕКТ_БИТРИКС24]]
+Проект: https://gkfosl.bitrix24.ru/workgroups/
 
-Задача 1: [[ССЫЛКА_НА_ЗАДАЧУ_О_ПРАВИЛАХ]]
+Задача 1: https://gkfosl.bitrix24.ru/workgroups/group/2/tasks/task/view/2/
 
-Задача 2: [[ССЫЛКА_НА_ЗАДАЧУ_О_КАРТОЧКЕ]]
+Задача 2: https://gkfosl.bitrix24.ru/workgroups/group/2/tasks/task/view/4/
 
-Задача 3: [[ССЫЛКА_НА_ЗАДАЧУ_О_ПРОВЕРКАХ]]
+Задача 3: https://gkfosl.bitrix24.ru/workgroups/group/2/tasks/task/view/6/
 
 ## Скриншоты
 
